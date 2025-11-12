@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 # Multi-scene Controller
-[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com) [![Unity Version](https://img.shields.io/badge/Unity-6000.0.58f-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com) [![License](https://img.shields.io/badge/License-MIT-4caf50.svg?style=for-the-badge&logo=github)](https://opensource.org/licenses/MIT) [![Release](https://img.shields.io/github/v/release/Gamagorat/unity-multiscene?style=for-the-badge&logo=github)](https://github.com/Gamagorat/unity-multiscene/releases)
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity%206000.0.58f-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com) [![Release](https://img.shields.io/github/v/release/Gamagorat/unity-multiscene?style=for-the-badge&logo=github)](https://github.com/Gamagorat/unity-multiscene/releases)
 
 </div>
 
