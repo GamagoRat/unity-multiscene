@@ -2,9 +2,9 @@
 
 # Multi-scene Controller
 
-![Unity Version](https://img.shields.io/badge/Unity-2021.3%20LTS-blue)
+![Unity Version](https://img.shields.io/badge/Unity-6000.0.58f)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Release](https://img.shields.io/github/v/release/mrauch/unity-multiscene)
+![Release](https://img.shields.io/github/v/release/GamagoRat/unity-multiscene)
 
 </div>
 
@@ -13,7 +13,7 @@ Un contrôleur simple pour gérer le chargement/déchargement multi-scène (Addi
 ## Obtenir le package
 
 Le package du projet se trouve dans les releases GitHub :
-[Releases · mrauch/unity-multiscene](https://github.com/mrauch/unity-multiscene/releases)
+[Releases · GamagoRat/unity-multiscene](https://github.com/GamagoRat/unity-multiscene/releases)
 
 ## Origine & concept
 
@@ -25,7 +25,7 @@ Ce document décrit l'implémentation et l'utilisation du SceneController et de 
 ## Obtenir le package
 
 Le package du projet se trouve dans les releases GitHub :
-[https://github.com/mrauch/unity-multiscene/releases](https://github.com/GamagoRat/unity-multiscene/releases)
+[https://github.com/GamagoRat/unity-multiscene/releases](https://github.com/GamagoRat/unity-multiscene/releases)
 
 ## Origine et exemple (source)
 
@@ -175,7 +175,7 @@ Ce document décrit l'implémentation et l'utilisation du SceneController et de 
 ## Obtenir le package
 
 Le package du projet se trouve dans les releases GitHub :
-[https://github.com/mrauch/unity-multiscene/releases](https://github.com/GamagoRat/unity-multiscene/releases)
+[https://github.com/GamagoRat/unity-multiscene/releases](https://github.com/GamagoRat/unity-multiscene/releases)
 
 ## Origine et exemple (source)
 
