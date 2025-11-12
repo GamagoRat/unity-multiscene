@@ -116,7 +116,7 @@ Méthodes disponibles :
 
 - Type abstrait :
 
-https://github.com/GamagoRat/unity-multiscene/blob/be294501256982ec9098787c7fc429f00bf1f4ff/Assets/Scripts/TransitionEffect.cs?plain=1#L4C1-L8C2
+https://github.com/GamagoRat/unity-multiscene/blob/a75e0d3cbd1d68603a212a4c3ccc0b32cf43eb7d/Assets/Scripts/TransitionEffect.cs#L4-L8
 
 - Exemple concret : un `AnimatorTransitionEffect` qui utilise un Animator pour animer un canvas de transition.
 - Important : si l'effet utilise un Canvas, assurer que sa priorité (Sorting Layer / Order in Layer) est supérieure afin qu'il apparaisse au-dessus des autres UI des scènes chargées.
