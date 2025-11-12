@@ -116,12 +116,7 @@ Méthodes disponibles :
 
 - Type abstrait :
 
-```csharp
-public abstract class TransitionEffect : MonoBehaviour {
-  public abstract IEnumerator FadeIn();
-  public abstract IEnumerator FadeOut();
-}
-```
+https://github.com/GamagoRat/unity-multiscene/blob/be294501256982ec9098787c7fc429f00bf1f4ff/Assets/Scripts/TransitionEffect.cs#L4C1-L8C2
 
 - Exemple concret : un `AnimatorTransitionEffect` qui utilise un Animator pour animer un canvas de transition.
 - Important : si l'effet utilise un Canvas, assurer que sa priorité (Sorting Layer / Order in Layer) est supérieure afin qu'il apparaisse au-dessus des autres UI des scènes chargées.
